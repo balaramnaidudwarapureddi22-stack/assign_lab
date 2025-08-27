@@ -1,4 +1,4 @@
-# assign_lab
+# assignment_lab
 a. Myself Dwarapureddi Balaram Naidu
    I am from Andhra Pradesh
    I like to watch movies and read books
